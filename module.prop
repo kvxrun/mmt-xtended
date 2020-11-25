@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=cyberpunk_bootanim
+name=Cyberpunk 2077 Bootanimation
+version=v1
+versionCode=1
+author=kvxrun
+description=A Magisk Module to systemlessly replace the default bootanimation with new OnePlus 8T Cyberpunk edition's boot animation.
